@@ -502,26 +502,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c7a98cfe4156b7459464ba4b4d471a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 10
-  depth: 10
-  begin: {x: 5, y: 4}
-  end: {x: 7, y: 8}
-  obstacles:
-  - {x: 6, y: 2}
-  - {x: 3, y: 3}
-  - {x: 7, y: 3}
-  - {x: 1, y: 4}
-  - {x: 2, y: 4}
-  - {x: 3, y: 4}
-  - {x: 7, y: 4}
-  - {x: 3, y: 5}
-  - {x: 4, y: 5}
-  - {x: 5, y: 5}
-  - {x: 6, y: 5}
-  - {x: 7, y: 5}
-  - {x: 4, y: 6}
-  - {x: 4, y: 7}
-  - {x: 4, y: 2}
+  width: 3
+  depth: 3
+  begin: {x: 0, y: 0}
+  end: {x: 0, y: 0}
+  obstacles: []
   grid: {fileID: 1437695855}
 --- !u!4 &1220870284
 Transform:
